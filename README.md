@@ -50,9 +50,9 @@ The repository is divided in the following files:
 
 [Pandas](https://pandas.pydata.org/docs/)
 
-[Numpy] (https://numpy.org/doc/1.18/)
+[Numpy](https://numpy.org/doc/1.18/)
 
-[Python] (https://docs.python.org/3/library/functions.html)
+[Python](https://docs.python.org/3/library/functions.html)
 
 [Matplotlib](https://matplotlib.org/)
 
