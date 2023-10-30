@@ -38,10 +38,10 @@ The repository is divided in the following files:
 
 - **Folder scripts_sql:**
 
-- **Diagram**: it contains the EER diagram explaining the relationaship, the primary keys and the foreign keys of the data base 
-- **Scripts**: 9 fies with relevant scripts written for this project 
+    - **Diagram**: it contains the EER diagram explaining the relationaship, the primary keys and the foreign keys of the data base 
+    - **Scripts**: 9 fies with relevant scripts written for this project 
 
-- **Folder imgages:**
+- **Folder images:**
    - the folder to save memes and graphs.
    
 
