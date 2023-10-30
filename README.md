@@ -1,7 +1,7 @@
 
-#  | SQL Data Base Building Project 🗄 
+#  | SQL Data Base Building Project 🗄 🚀
 
-![] 
+![](https://github.com/abelnperez/sql_data_base_building-/blob/main/images/ARTvideoclub.jpg)
 
 ## Main goal  📼📼📼
 
@@ -47,7 +47,7 @@ The repository is divided in the following files:
 ## Getting Started 📂 🚀🚀🚀
 
 
-
+## Links & Resources 📂 📂 📂 
 
 [Pandas](https://pandas.pydata.org/docs/)
 
