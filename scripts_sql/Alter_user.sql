@@ -1,0 +1,1 @@
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'a1b2e3l4_IRONHACK';
