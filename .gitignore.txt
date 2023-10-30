@@ -1,4 +1,5 @@
 .ipynb_checkpoints
+.TXT
 
 
 contraseñas.txt

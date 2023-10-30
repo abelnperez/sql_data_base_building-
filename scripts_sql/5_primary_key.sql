@@ -1,0 +1,27 @@
+-- ACTOR PRIMARY KEY --
+ALTER TABLE actor
+ADD PRIMARY KEY (actor_id);
+
+-- CATEGORY PRIMARY KEY --
+ALTER TABLE category
+ADD PRIMARY KEY (category_id);
+
+-- CUSTOMER PRIMARY KEY --
+ALTER TABLE customer
+ADD PRIMARY KEY (customer_id);
+
+-- FILM PRIMARY KEY --
+ALTER TABLE film
+ADD PRIMARY KEY (film_id);
+
+-- INVENTORY PRIMARY KEY --
+ALTER TABLE inventory
+ADD PRIMARY KEY (inventory_id);
+
+-- LANGUAGE PRIMARY KEY --
+ALTER TABLE language 
+ADD PRIMARY KEY (language_id);
+
+-- RENTAL PRIMARY KEY --
+ALTER TABLE rental
+ADD PRIMARY KEY (rental_id);
