@@ -5,11 +5,11 @@
 
 ## Main goal  📼📼📼
 
-Our client is a nostalgic business man who has open a reatro Arcade games salon for those who were kids in the 70´s and 80´s. The business is going well, it has a strong base of loyal clients and the salon is very popular in the area, atracting people form other cities when they organice the Arcade Contest every month. Since the business is going well, the owner has had the idea to add something new and at the same time old to it´s business. 
+Our client is a nostalgic businessman who has opened a retro Arcade games salon for those who were kids in the 70s and 80s. The business is going well, it has a strong base of loyal clients and the salon is very popular in the area, attracting people from other cities when they organize the Arcade Contest every month. Since the business is going well, the owner has had the idea to add something new and at the same time old to its business. 
 
-To include more retro taste to the Arcade Salon he has bought the films inventary of the last Blockbuster videoclub in the city, which closed in 2006, more than 17 years ago. With the movies he was also able to obtain the last Data Base of the videoclub, and his idea is to recover it as well and put it runiing again. Since everything in his business is retro, he is looking to mantain the records of the last clients (except the personal data, since it is protected by law) as a sign of continuity. 
+To include more retro taste to the Arcade Salon he bought the film inventory of the last Blockbuster video club in the city, which closed in 2006, more than 17 years ago. With the movies, he also obtained the last database of the video club, and his idea is to recover it as well and put it running again. Since everything in his business is retro, he is looking to maintain the records of the last clients (except the personal data, since it is protected by law) as a sign of continuity. 
 
-So I have gathered all the important information in the old csv´s, to btain a clean, organized, null-free and legible data set that allows us to read and interpret the information we need and is relevant to us. Once that part is done I have created an structured Data Base in SQL that will help the owner to manage the business. 
+So I have gathered all the important information in the old CSV files, to obtain a clean, organized, null-free, and legible data set that allows us to read and interpret the information we need and is relevant to us. Once that part is done I have created a structured database in SQL that will help the owner to manage the business. 
 
 
 ![](https://github.com/abelnperez/sql_data_base_building-/blob/main/images/movies.PNG)
@@ -44,7 +44,6 @@ The repository is divided in the following files:
 - **Folder imgages:**
    - the folder to save memes and graphs.
    
-## Getting Started 📂 🚀🚀🚀
 
 
 ## Links & Resources 📂 📂 📂 
